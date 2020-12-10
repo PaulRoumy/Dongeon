@@ -1,5 +1,7 @@
+package po.model;
 
-import java.util.*;
+import po.model.Dongeon;
+import po.model.Héros;
 
 /**
  * 

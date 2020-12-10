@@ -1,5 +1,6 @@
+package po.model.Monstres;
 
-import java.util.*;
+import po.model.Héros;
 
 /**
  * 
@@ -24,8 +25,9 @@ public class Démons extends Monstre {
     /**
      * 
      */
-    public void recupArme() {
-        return ;
+    public String recupArme() {
+        System.out.println("Utiliser le pouvoir de la vie!");
+        return "EauMagique";
     }
 
     /**
