@@ -1,17 +1,21 @@
+package po.model.Monstres;
 
-import java.util.*;
+import po.model.Utilitaires.Epée;
+import po.model.Héros;
 
 /**
  * 
  */
 public class Barbares extends Monstre {
 
+    private final Object Epée;
+
     /**
      * Default constructor
      */
     public Barbares() {
         int pv = 20 ;
-        Épée =new Épée();
+        Epée =new Epée();
     }
 
 
@@ -25,8 +29,9 @@ public class Barbares extends Monstre {
     /**
      * 
      */
-    public void recupArme() {
-        // TODO implement here
+    public String recupArme() {
+        System.out.println("Utiliser la violence!");
+        return "Epée";
     }
 
     /**

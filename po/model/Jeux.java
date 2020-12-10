@@ -1,10 +1,15 @@
+package po.model;
 
-import java.util.*;
+import po.model.Dongeon;
+import po.model.Héros;
 
 /**
  * 
  */
 public class Jeux {
+
+    private final Object Dongeon;
+    private final Object Héros;
 
     /**
      * Default constructor

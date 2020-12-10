@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="8a5d034d-5029-47c0-96c9-8e55feed6458" name="Default Changelist" comment="constructeur et dégat des armes ok">
       <change beforePath="$PROJECT_DIR$/Démons.java" beforeDir="false" afterPath="$PROJECT_DIR$/Démons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Héros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Héros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monstre.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/Model/Monstre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Épée.java" beforeDir="false" afterPath="$PROJECT_DIR$/Epée.java" afterDir="false" />
+=======
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b5e51c0-36ba-49b1-8eb3-09275ba91587" name="Default Changelist" comment="Intialle commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Dongeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Dongeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Héros.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Héros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Jeux.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Jeux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Monstres/Barbares.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Monstres/Barbares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Monstres/Monstre.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Monstres/Monstre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Salle.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Salle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Utilitaires/Armes.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Utilitaires/Armes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Utilitaires/EauMagique.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Utilitaires/EauMagique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Utilitaires/Epée.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Utilitaires/Epée.java" afterDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +48,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Epée">
@@ -40,5 +74,85 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="346" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607607655436" />
+=======
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lSXuaCt3QX9A1auLzsCb9NUPit" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b5e51c0-36ba-49b1-8eb3-09275ba91587" name="Default Changelist" comment="" />
+      <created>1607591689500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607591689500</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Intialle commit">
+      <created>1607592693448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607592693448</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Att">
+      <created>1607612891676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607612891676</updated>
+    </task>
+    <task id="LOCAL-00003" summary="package add">
+      <created>1607614748280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607614748280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intialle commit" />
+    <MESSAGE value="Att" />
+    <MESSAGE value="package add" />
+    <option name="LAST_COMMIT_MESSAGE" value="package add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1607614774112">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607614774112" />
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607592595775">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607592595775" />
+>>>>>>> origin/master
   </component>
 </project>

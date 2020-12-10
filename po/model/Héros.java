@@ -1,5 +1,7 @@
+package po.model;
 
-import java.util.*;
+import po.model.Utilitaires.Armes;
+import po.model.Utilitaires.Epée;
 
 /**
  * 
@@ -45,10 +47,12 @@ public class Héros {
      * 
      */
     public int useSword() {
-        ptDegat(Épée.attack);
+        int Degat = ptDegat(Epée.attack);
 
+        return Degat;
+    }
 
-
+    private void ptDegat(int attack) {
     }
 
     /**

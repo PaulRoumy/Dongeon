@@ -1,10 +1,12 @@
-
-import java.util.*;
+package po.model.Utilitaires;
 
 /**
  * 
  */
 public class Armes {
+
+    private final Object EauMagique;
+    private final Object Epée;
 
     /**
      * Default constructor

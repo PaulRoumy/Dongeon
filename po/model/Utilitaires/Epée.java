@@ -1,10 +1,12 @@
-
+package po.model.Utilitaires;
 import java.util.*;
 
 /**
  * 
  */
 public class Epée {
+
+    public static int attack;
 
     /**
      * Default constructor

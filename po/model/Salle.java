@@ -1,10 +1,15 @@
+package po.model;
 
-import java.util.*;
+import po.model.Monstres.Monstre;
+import po.model.Monstres.Barbares;
+import po.model.Monstres.Démons;
 
 /**
  * 
  */
 public class Salle {
+
+    private final Object Monstre;
 
     /**
      * Default constructor
