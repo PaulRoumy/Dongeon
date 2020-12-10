@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a5d034d-5029-47c0-96c9-8e55feed6458" name="Default Changelist" comment="constructeur et dégat des armes ok">
+      <change beforePath="$PROJECT_DIR$/Démons.java" beforeDir="false" afterPath="$PROJECT_DIR$/Démons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Héros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Héros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monstre.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/Model/Monstre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Épée.java" beforeDir="false" afterPath="$PROJECT_DIR$/Epée.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Epée">
+      <created>1607612760874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607612760874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Epée" />
+    <option name="LAST_COMMIT_MESSAGE" value="Epée" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607612766945">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607612766945" />
+    <state x="474" y="346" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607607655436">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="474" y="346" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607607655436" />
+  </component>
+</project>
