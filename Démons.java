@@ -25,7 +25,7 @@ public class Démons extends Monstre {
      * 
      */
     public void recupArme() {
-        // TODO implement here
+        return ;
     }
 
     /**
