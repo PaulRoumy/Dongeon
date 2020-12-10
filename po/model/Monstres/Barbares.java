@@ -8,6 +8,8 @@ import po.model.Héros;
  */
 public class Barbares extends Monstre {
 
+    private final Object Epée;
+
     /**
      * Default constructor
      */

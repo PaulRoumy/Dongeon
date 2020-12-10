@@ -6,6 +6,12 @@ import java.util.*;
  */
 public class Dongeon {
 
+    private final Salle Salle1;
+    private final Salle Salle2;
+    private final Salle Salle3;
+    private final Salle Salle4;
+    private final Salle Salle5;
+
     /**
      * Default constructor
      */

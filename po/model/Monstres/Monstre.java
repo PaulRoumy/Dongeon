@@ -1,11 +1,16 @@
 package po.model.Monstres;
 
-import;
+import po.model.Monstres.Barbares;
+import po.model.Monstres.Démons;
 
 /**
  * 
  */
 public class Monstre {
+
+
+    private final Object Barbares;
+    private final Object Démons;
 
     /**
      * Default constructor
