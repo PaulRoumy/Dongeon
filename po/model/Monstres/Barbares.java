@@ -3,21 +3,23 @@ package po.model.Monstres;
 import po.model.Utilitaires.Epée;
 import po.model.Héros;
 
+import java.sql.SQLOutput;
+
 /**
  * 
  */
 public class Barbares extends Monstre {
 
     private final Object Epée;
+    private Object Héros;
 
     /**
      * Default constructor
      */
     public Barbares() {
         int pv = 20 ;
-        Epée =new Epée();
+        Epée = new Epée();
     }
-
 
     /**
      * @param cible

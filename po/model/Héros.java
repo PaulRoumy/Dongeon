@@ -16,9 +16,6 @@ public class Héros {
     }
 
 
-
-
-
     /**
      * 
      */
@@ -40,8 +37,6 @@ public class Héros {
     /**
      * 
      */
-
-
 
     /**
      * 
@@ -66,7 +61,7 @@ public class Héros {
     /**
      * 
      */
-    public void useWather() {
+    public void useWater() {
         // TODO implement here
     }
 
