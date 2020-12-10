@@ -11,6 +11,7 @@ public class Jeux {
      */
     public Jeux() {
         Dongeon = new Dongeon();
+        Héros = new Héros();
     }
 
 

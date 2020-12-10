@@ -4,12 +4,13 @@ import java.util.*;
 /**
  * 
  */
-public class Épée {
+public class Epée {
 
     /**
      * Default constructor
      */
-    public Épée() {
+
+    public Epée() {
     }
 
 

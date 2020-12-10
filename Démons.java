@@ -18,7 +18,7 @@ public class Démons extends Monstre {
      * @param cible
      */
     public void attaquer(Héros cible) {
-        // TODO implement here
+
     }
 
     /**

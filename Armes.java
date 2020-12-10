@@ -11,7 +11,7 @@ public class Armes {
      */
     public Armes() {
         EauMagique = new EauMagique() ;
-        Épée = new Épée() ;
+        Epée = new Epée() ;
     }
 
 
