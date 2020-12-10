@@ -10,6 +10,7 @@ public class Démons extends Monstre {
      * Default constructor
      */
     public Démons() {
+        int pv = 30;
     }
 
 

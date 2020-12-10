@@ -10,6 +10,8 @@ public class Barbares extends Monstre {
      * Default constructor
      */
     public Barbares() {
+        int pv = 20 ;
+        Épée =new Épée();
     }
 
 

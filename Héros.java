@@ -10,6 +10,7 @@ public class Héros {
      * Default constructor
      */
     public Héros() {
+        int pv = 120;
     }
 
 
@@ -32,22 +33,22 @@ public class Héros {
     /**
      * @param Parameter1
      */
-    public void typeMob(Démons Parameter1) {
-        // TODO implement here
-    }
+
 
     /**
      * 
      */
-    public void Type mobs() {
-        // TODO implement here
-    }
+
+
 
     /**
      * 
      */
-    public void useAttack() {
-        // TODO implement here
+    public int useSword() {
+        ptDegat(Épée.attack);
+
+
+
     }
 
     /**
@@ -61,7 +62,7 @@ public class Héros {
     /**
      * 
      */
-    public void useAttack() {
+    public void useWather() {
         // TODO implement here
     }
 

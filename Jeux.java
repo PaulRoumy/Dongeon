@@ -10,6 +10,7 @@ public class Jeux {
      * Default constructor
      */
     public Jeux() {
+        Dongeon = new Dongeon();
     }
 
 
