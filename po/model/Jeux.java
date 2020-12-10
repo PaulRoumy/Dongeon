@@ -5,10 +5,12 @@ import po.model.Héros;
 import java.util.Scanner;
 
 /**
- * 
+ *
  */
 public class Jeux {
+    public static void main(String[] args) {
 
+    }
     private final Object Dongeon;
     private final Object Héros;
 
@@ -43,7 +45,7 @@ public class Jeux {
     }
 
     /**
-     * 
+     *
      */
     public void finJeux() {
         // TODO implement here
