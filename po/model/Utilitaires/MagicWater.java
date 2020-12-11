@@ -5,12 +5,12 @@ package po.model.Utilitaires;
 /**
  * 
  */
-public class EauMagique {
+public class MagicWater {
 
     /**
      * Default constructor
      */
-    public EauMagique() {
+    public MagicWater() {
     }
 
 

@@ -1,29 +1,31 @@
 package po.model;
 
-import po.model.Dongeon;
-import po.model.Héros;
 import java.util.Scanner;
+import po.model.Heros;
+import po.model.Monstres.*;
+import po.model.Utilitaires.*;
+
 
 /**
  *
  */
 public class Jeux {
+
+
     public static void main(String[] args) {
 
     }
-    private final Object Dongeon;
-    private final Object Héros;
 
     /**
      * Default constructor
      */
     public Jeux() {
-        Dongeon = new Dongeon();
-        Héros = new Héros();
+        Dongeon dongeon = new Dongeon();
+        Heros heros  = new Heros();
     }
 
     public void useWeapon() {
-        Héros hero = new Héros();
+        Heros hero = new Heros();
         Scanner input = new Scanner(System.in);
         System.out.println("Quelle arme souhaites-tu utiliser ?");
         String weapon = input.nextLine();
@@ -42,6 +44,12 @@ public class Jeux {
             System.out.println("Tu n'as utilisé aucune arme...");
         }
 
+    }
+    public void finRound(){
+        System.out.println(" pv");
+        System.out.println(" dégats infligés");
+        System.out.println(" pv du monstre");
+        System.out.println("");
     }
 
     /**

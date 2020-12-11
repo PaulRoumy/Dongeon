@@ -27,8 +27,6 @@
       <change afterPath="$PROJECT_DIR$/out/production/Model/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Model/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Model/Model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/po/model/Utilitaires/Alea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/po/model/Utilitaires/ExceptionVieFin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Héros.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Heros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Jeux.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Jeux.java" afterDir="false" />
@@ -44,13 +42,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -153,42 +144,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="h" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1146" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1607665633853">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="1146" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1607665633853" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1607661106470">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607661106470" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1607661106469">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607661106469" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1607661106468">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607661106468" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1607661106470">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607661106470" />
     <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1607634971200">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607634971200" />
-    <state x="878" y="55" width="799" height="929" key="dock-window-1" timestamp="1607668739951">
+    <state x="1019" y="23" width="661" height="961" key="dock-window-1" timestamp="1607655959394">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state x="986" y="23" width="694" height="961" key="dock-window-1/0.0.1680.1050@0.0.1680.1050" timestamp="1607661128770" />
-    <state x="878" y="55" width="799" height="929" key="dock-window-1/0.23.1680.961@0.23.1680.961" timestamp="1607668739951" />
+    <state x="1019" y="23" width="661" height="961" key="dock-window-1/0.23.1680.961@0.23.1680.961" timestamp="1607655959394" />
     <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607592595775">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607592595775" />
-    <state x="1116" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1607661089369">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="1116" y="276" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607661089369" />
   </component>
 </project>

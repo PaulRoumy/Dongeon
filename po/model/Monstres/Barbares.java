@@ -1,30 +1,28 @@
 package po.model.Monstres;
 
-import po.model.Utilitaires.Epée;
-import po.model.Héros;
-
-import java.sql.SQLOutput;
+import po.model.Utilitaires.Sword;
+import po.model.Heros;
 
 /**
  * 
  */
 public class Barbares extends Monstre {
 
-    private final Object Epée;
-    private Object Héros;
+    private boolean Alive;
+
 
     /**
      * Default constructor
      */
     public Barbares() {
-        int pv = 20 ;
-        Epée = new Epée();
+        int pv = 40 ;
+        Sword sword = new Sword();
     }
 
     /**
      * @param cible
      */
-    public void attaquer(Héros cible) {
+    public void attaquer(Heros cible) {
         // TODO implement here
     }
 
@@ -33,7 +31,7 @@ public class Barbares extends Monstre {
      */
     public String recupArme() {
         System.out.println("Utiliser la violence!");
-        return "Epée";
+        return "Sword";
     }
 
     /**
@@ -49,6 +47,10 @@ public class Barbares extends Monstre {
      */
     public void ptDegats(int degats, boolean Paralisie) {
         // TODO implement here
+    }
+    public boolean get_Alive()
+    {
+        return this.Alive;
     }
 
 }

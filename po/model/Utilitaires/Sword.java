@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * 
  */
-public class Epée {
+public class Sword {
 
     public static int attack;
 
@@ -12,7 +12,7 @@ public class Epée {
      * Default constructor
      */
 
-    public Epée() {
+    public Sword() {
     }
 
 
