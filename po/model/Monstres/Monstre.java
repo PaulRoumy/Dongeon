@@ -1,32 +1,45 @@
 package po.model.Monstres;
 
-import po.model.Monstres.Barbares;
-import po.model.Monstres.Démons;
 
 /**
  * 
  */
 public class Monstre {
 
-
-    private final Object Barbares;
-    private final Object Démons;
+    private int Attaque;
+    private boolean Alive;
+    private int Defense;
 
     /**
      * Default constructor
      */
     public Monstre() {
+
         float mob = (float) Math.random();
         if (mob > 0.5){
-            Barbares = new Barbares();
+            Barbares barbares = new Barbares();
 
         }
         else {
-            Démons = new Démons();
+            Magiciens magiciens = new Magiciens();
         }
     }
 
 
+    public final int get_Attaque()
+    {
+        return Attaque;
+    }
+
+    public final int get_Defense()
+    {
+        return Defense;
+    }
+
+    public boolean get_Alive()
+    {
+        return this.Alive;
+    }
 
 
     /**

@@ -1,28 +1,28 @@
 package po.model;
 
 import po.model.Monstres.Monstre;
-import po.model.Monstres.Barbares;
-import po.model.Monstres.Démons;
+import po.model.Utilitaires.Alea;
+
+import java.util.ArrayList;
 
 /**
  * 
  */
 public class Salle {
 
-    private final Object Monstre;
 
     /**
      * Default constructor
      */
     public Salle() {
-        Monstre = new Monstre();
+        Monstre monstre = new Monstre();
     }
 
     /**
      * @param heros
      */
-    public void entrerSalle(Héros heros) {
-
+    public void entrerSalle(Heros heros) {
+        if()
 
     }
 
