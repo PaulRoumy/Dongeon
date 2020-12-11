@@ -13,6 +13,7 @@ public class Heros {
 
     private int PV;
     private int PV_Depart;
+    private int Attaque;
     Sword sword;
     /**
      * Default constructor
@@ -48,12 +49,13 @@ public class Heros {
         Degats_Heros = this.get_Attaque() + Alea.EntierEntre(1,6);
         Affichage.append("\nLe héros attaque et a une attaque de "+ Degats_Heros);
         Affichage.append("\nLe monstre riposte avec une défense de : "+ Mo.get_Defense());
-        if ( Mo.get_Defense() <= Degats_Heros )
-        {
-            Affichage.append("\nLe monstre perd "+(this.ptDegat()).get_Puissance()+ "PV");
-            Mo.set_PV(Mo.get_PV() - (this.get_Arme()).get_Puissance());
-        }
+
         return Affichage.toString();
+    }
+
+    public final int get_Attaque()
+    {
+        return Attaque;
     }
 
     /**

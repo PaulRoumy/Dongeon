@@ -19,6 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="6b5e51c0-36ba-49b1-8eb3-09275ba91587" name="Default Changelist" comment="Intialle commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Dongeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Dongeon.java" afterDir="false" />
@@ -27,6 +28,10 @@
       <change beforePath="$PROJECT_DIR$/po/model/Monstres/Barbares.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Monstres/Barbares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Monstres/Magiciens.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Monstres/Magiciens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Salle.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Salle.java" afterDir="false" />
+=======
+    <list default="true" id="6b5e51c0-36ba-49b1-8eb3-09275ba91587" name="Default Changelist" comment="h">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +89,25 @@
       <option name="project" value="LOCAL" />
       <updated>1607614748280</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="4" />
+=======
+    <task id="LOCAL-00004" summary="h">
+      <created>1607634967153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607634967153</updated>
+    </task>
+    <task id="LOCAL-00005" summary="story5">
+      <created>1607674036511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607674036511</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,13 +126,40 @@
     <MESSAGE value="Intialle commit" />
     <MESSAGE value="Att" />
     <MESSAGE value="package add" />
+<<<<<<< Updated upstream
     <option name="LAST_COMMIT_MESSAGE" value="package add" />
+=======
+    <MESSAGE value="h" />
+    <MESSAGE value="story5" />
+    <option name="LAST_COMMIT_MESSAGE" value="story5" />
+>>>>>>> Stashed changes
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1607614774112">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
+<<<<<<< Updated upstream
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607614774112" />
+=======
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607661106469" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1607661106468">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607661106468" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1607661106470">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607661106470" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1607674048215">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607674048215" />
+    <state x="878" y="513" width="799" height="929" key="dock-window-1" timestamp="1607675234745">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="986" y="23" width="694" height="961" key="dock-window-1/0.0.1680.1050@0.0.1680.1050" timestamp="1607661128770" />
+    <state x="878" y="513" width="799" height="929" key="dock-window-1/0.23.1680.961@0.23.1680.961" timestamp="1607675234745" />
+>>>>>>> Stashed changes
     <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607592595775">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
