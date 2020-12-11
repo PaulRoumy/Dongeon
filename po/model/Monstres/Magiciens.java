@@ -11,6 +11,7 @@ public class Magiciens extends Monstre {
      * Default constructor
      */
     public Magiciens() {
+
         int pv = 25;
     }
 

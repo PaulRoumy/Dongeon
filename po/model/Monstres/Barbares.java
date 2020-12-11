@@ -10,13 +10,13 @@ public class Barbares extends Monstre {
 
     private boolean Alive;
 
-
+    Sword sword;
     /**
      * Default constructor
      */
     public Barbares() {
         int pv = 40 ;
-        Sword sword = new Sword();
+         sword = new Sword();
     }
 
     /**

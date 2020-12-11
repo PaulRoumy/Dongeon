@@ -22,14 +22,11 @@
     <list default="true" id="6b5e51c0-36ba-49b1-8eb3-09275ba91587" name="Default Changelist" comment="Intialle commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Dongeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Dongeon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/po/model/Héros.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Héros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Heros.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Heros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Jeux.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Jeux.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Monstres/Barbares.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Monstres/Barbares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/po/model/Monstres/Monstre.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Monstres/Monstre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/po/model/Monstres/Magiciens.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Monstres/Magiciens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/po/model/Salle.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Salle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/po/model/Utilitaires/Armes.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Utilitaires/Armes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/po/model/Utilitaires/EauMagique.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Utilitaires/EauMagique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/po/model/Utilitaires/Epée.java" beforeDir="false" afterPath="$PROJECT_DIR$/po/model/Utilitaires/Epée.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,5 +114,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607592595775" />
+    <state x="88" y="72" key="new project wizard" timestamp="1607675335934">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1607675335934" />
   </component>
 </project>

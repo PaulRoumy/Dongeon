@@ -13,12 +13,12 @@ public class Heros {
 
     private int PV;
     private int PV_Depart;
-
+    Sword sword;
     /**
      * Default constructor
      */
     public Heros() {
-        Sword sword = new Sword();
+        sword = new Sword();
         int pv = 120;
 
     }

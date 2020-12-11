@@ -15,29 +15,30 @@ public class Jeux {
     public static void main(String[] args) {
 
     }
-
+    Dongeon dongeon;
+    Heros heros;
     /**
      * Default constructor
      */
     public Jeux() {
-        Dongeon dongeon = new Dongeon();
-        Heros heros  = new Heros();
+         dongeon = new Dongeon();
+         heros  = new Heros();
     }
 
     public void useWeapon() {
-        Heros hero = new Heros();
+         heros = new Heros();
         Scanner input = new Scanner(System.in);
         System.out.println("Quelle arme souhaites-tu utiliser ?");
         String weapon = input.nextLine();
 
         if(weapon.equals("SWORD")) {
             System.out.println("J'attaque le barbare !");
-            hero.useSword();
+            heros.useSword();
         }
 
         else if (weapon.equals("WATER_FLASK")) {
             System.out.println("J'attaque le magicien !");
-            hero.useWater();
+            heros.useWater();
         }
 
         else {

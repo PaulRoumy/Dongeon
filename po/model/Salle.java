@@ -10,19 +10,19 @@ import java.util.ArrayList;
  */
 public class Salle {
 
-
+    Monstre monstre;
     /**
      * Default constructor
      */
     public Salle() {
-        Monstre monstre = new Monstre();
+         monstre = new Monstre();
     }
 
     /**
      * @param heros
      */
     public void entrerSalle(Heros heros) {
-        if()
+
 
     }
 
