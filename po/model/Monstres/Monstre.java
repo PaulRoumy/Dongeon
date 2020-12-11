@@ -9,7 +9,7 @@ public class Monstre {
     private int Attaque;
     private boolean Alive;
     private int Defense;
-
+Monstre monstre;
     /**
      * Default constructor
      */
@@ -17,11 +17,11 @@ public class Monstre {
 
         float mob = (float) Math.random();
         if (mob > 0.5){
-            Barbares barbares = new Barbares();
+            monstre = new Barbares();
 
         }
         else {
-            Magiciens magiciens = new Magiciens();
+            monstre = new Magiciens();
         }
     }
 
